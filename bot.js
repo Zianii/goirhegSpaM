@@ -27,7 +27,7 @@ channel.send(`xD`);
 client.on("ready", () => {
 let channel =     client.channels.get("548917058835054627")
 setInterval(function() {
-channel.send(`How Are You`);
+channel.send(`HowAreYou`);
 }, 1)
 })
 
